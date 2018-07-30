@@ -1,7 +1,7 @@
 ### July 30, 2018
 
 # Angular.js
-### 步骤 1:设置开发环境
+### 步骤 1. 设置开发环境
     验证一下你正在运行 node 8.x 和 npm 5.x 以上的版本。 更老的版本可能会出现错误，更新的版本则没问题。
 #### T全局安装 Angular CLI。
     npm install -g @angular/cli
