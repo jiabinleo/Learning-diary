@@ -11,4 +11,4 @@
 ### step 3: Serve the application
     cd my-app
     ng serve --open
-    <!-- Using the --open (or just -o) option will automatically open your browser on http://localhost:4200/. -->
+>   Using the --open (or just -o) option will automatically open your browser on http://localhost:4200/.
