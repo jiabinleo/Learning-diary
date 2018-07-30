@@ -1,19 +1,19 @@
 ### July 30, 2018
 
 # Angular.js
-### step1:Setting up the development environment
-    (node 8.x && npm 5.x)
-#### Then install the Angular CLI globally.
+### 步骤 1:设置开发环境
+    验证一下你正在运行 node 8.x 和 npm 5.x 以上的版本。 更老的版本可能会出现错误，更新的版本则没问题。
+#### T全局安装 Angular CLI。
     npm install -g @angular/cli
 
-### step2:Create a new project
+### 步骤 2. 创建新项目
     ng new my-app
 
-### step 3: Serve the application
+### 步骤 3. 启动开发服务器
     cd my-app
     ng serve --open
 >   Using the --open (or just -o) option will automatically open your browser on http://localhost:4200/.
-### step 4: Edit your first Angular component
+### 步骤 4. 编辑你的第一个 Angular 组件
 >   src/app/app.component.ts
 
     export class AppComponent {
